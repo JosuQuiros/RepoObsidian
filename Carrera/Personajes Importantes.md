@@ -1,0 +1,2 @@
+- Linus Torvalds | Creador de kernel linux
+- Richard Stallman | Fundador GNU y Free Software Fundation
